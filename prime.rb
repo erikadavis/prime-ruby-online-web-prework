@@ -9,7 +9,6 @@ return false if number <= 1
   if number % n == 0
   return false
    end
-end  
+end
 true
 end
-  
